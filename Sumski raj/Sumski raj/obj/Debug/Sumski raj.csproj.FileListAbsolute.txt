@@ -7,3 +7,12 @@ C:\Users\Macastiiii\Desktop\Sumski raj Windows aplication\Sumski raj\Sumski raj\
 C:\Users\Macastiiii\Desktop\Sumski raj Windows aplication\Sumski raj\Sumski raj\obj\Debug\Sumski raj.csproj.GenerateResource.Cache
 C:\Users\Macastiiii\Desktop\Sumski raj Windows aplication\Sumski raj\Sumski raj\obj\Debug\Sumski raj.exe
 C:\Users\Macastiiii\Desktop\Sumski raj Windows aplication\Sumski raj\Sumski raj\obj\Debug\Sumski raj.pdb
+C:\Users\Macastiiii\Desktop\Sumski-raj-Windows-Application\Sumski raj\Sumski raj\bin\Debug\Sumski raj.exe.config
+C:\Users\Macastiiii\Desktop\Sumski-raj-Windows-Application\Sumski raj\Sumski raj\obj\Debug\Sumski raj.exe
+C:\Users\Macastiiii\Desktop\Sumski-raj-Windows-Application\Sumski raj\Sumski raj\obj\Debug\Sumski raj.pdb
+C:\Users\Macastiiii\Desktop\Sumski-raj-Windows-Application\Sumski raj\Sumski raj\bin\Debug\Sumski raj.exe
+C:\Users\Macastiiii\Desktop\Sumski-raj-Windows-Application\Sumski raj\Sumski raj\bin\Debug\Sumski raj.pdb
+C:\Users\Macastiiii\Desktop\Sumski-raj-Windows-Application\Sumski raj\Sumski raj\obj\Debug\Sumski raj.csprojResolveAssemblyReference.cache
+C:\Users\Macastiiii\Desktop\Sumski-raj-Windows-Application\Sumski raj\Sumski raj\obj\Debug\Sumski_raj.Form1.resources
+C:\Users\Macastiiii\Desktop\Sumski-raj-Windows-Application\Sumski raj\Sumski raj\obj\Debug\Sumski_raj.Properties.Resources.resources
+C:\Users\Macastiiii\Desktop\Sumski-raj-Windows-Application\Sumski raj\Sumski raj\obj\Debug\Sumski raj.csproj.GenerateResource.Cache
