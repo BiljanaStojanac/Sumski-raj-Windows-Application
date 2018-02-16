@@ -160,7 +160,8 @@ namespace Sumski_raj
             lblCostDrink.Text = "0";
             lblCostFood.Text = "0";
             lblTotal.Text = "0";
-
+            textBox1.Text = "";
+            textBox2.Text = "";  
             chkEspresso.Checked = false;
             chkCappuccino.Checked = false;
             chkKiselaVoda.Checked = false;
